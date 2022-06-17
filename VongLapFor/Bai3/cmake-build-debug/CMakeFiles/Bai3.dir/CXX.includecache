@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Desktop/C_Plushx2/VongLapFor/Bai3/main.cpp
+iostream
+C:/Users/Admin/Desktop/C_Plushx2/VongLapFor/Bai3/iostream
+
