@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/C_Plushx2/VongLapFor/Bai10/cmake-build-debug/CMakeFiles/Bai10.dir
+C:/Users/Admin/Desktop/C_Plushx2/VongLapFor/Bai10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/C_Plushx2/VongLapFor/Bai10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
